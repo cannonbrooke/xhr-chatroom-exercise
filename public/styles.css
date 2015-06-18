@@ -1,0 +1,55 @@
+body {
+    background-image: url('http://images.123hdwallpapers.com/20150512/forest-background-1600x1200.jpg');
+    border-style:solid;
+    border-color:#287EC7;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+p {
+
+  border-style:dotted;
+  border-color:#FF0000;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 4px 4px #000;
+}
+
+h2 {
+    display: block;
+    color: white;
+    font-size: 40px;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    border: solid;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+}
+
+#add-message {
+    width: 500px;  height: 80px;
+    background-image: url(http://www.artofthesouth.com/search/images/art/sunsetonlamplightlane_lg.jpg);
+  color: blue;
+}
+
+ul {
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+  overflow-y: auto;
+  height: 500px;
+}
+
+h1{
+  font-size: 50px;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-weight: bold;
+}
+
